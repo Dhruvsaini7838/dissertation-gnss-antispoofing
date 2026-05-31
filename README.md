@@ -1,5 +1,5 @@
 # Multi-Heuristic GNSS Anti-Spoofing for Location-Bound Cryptographic Systems
-**MSc Dissertation — University of Surrey**
+**MSc Dissertation : University of Surrey**
 **Student:** Dhruv Saini · 6898312 · MSc Cyber Security (Placement Year)
 **Supervisor:** Prof Ioana Boureanu · Surrey Centre for Cyber Security
 **Submission:** September 2026
